@@ -1,0 +1,21 @@
+const products=[{
+    id:1,
+    name:"laptop",
+    price:300
+},
+{
+    id:2,
+    name:"headphone",
+    price:150
+},
+{
+    id:3,
+    name:"phone",
+    price:1500
+},
+{
+    id:4,
+    name:"cover",
+    price:20
+}];
+module.exports=products;
